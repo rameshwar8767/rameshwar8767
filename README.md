@@ -116,9 +116,9 @@ CGPA: **7.45 / 10**
 
 ## 🤝 Connect With Me  
 📧 **Email:** manerameshwar909@gmail.com  
-🔗 **LinkedIn:** *(Add your link here)*  
+🔗 **LinkedIn:** *https://www.linkedin.com/in/manerameshwar/*  
 🐙 **GitHub:** https://github.com/rameshwar8767  
-🧮 **LeetCode:** *(Add your profile URL)*  
+🧮 **LeetCode:** *https://leetcode.com/u/rameshwar_rm/*  
 📱 **Phone:** +91-8767086955  
 
 ---
