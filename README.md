@@ -177,10 +177,11 @@ const rameshwar = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rameshwar8767&show_icons=true&theme=tokyonight&border_color=7c3aed&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&hide_border=false&border_radius=12" height="170px"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=rameshwar8767&theme=tokyonight&hide_border=false&border_radius=12&background=0D1117&stroke=7c3aed&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=6e6e6e" height="170px"/>
+<img src="https://github-stats-alpha.vercel.app/api?username=rameshwar8767&cc=0d1117&tc=a78bfa&ic=a78bfa&bc=7c3aed" height="170px"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rameshwar8767&layout=compact&theme=tokyonight&border_color=7c3aed&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&hide_border=false&border_radius=12" height="170px"/>
+<img src="https://streak-stats.demolab.com?user=rameshwar8767&theme=tokyonight&hide_border=false&border_radius=12&background=0D1117&stroke=7c3aed&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" height="170px"/>
+
+<img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=rameshwar8767&layout=compact&theme=tokyonight&border_color=7c3aed&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&border_radius=12" height="170px"/>
 
 </div>
 
