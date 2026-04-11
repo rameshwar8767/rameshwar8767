@@ -181,7 +181,18 @@ const rameshwar = {
 
 <img src="https://streak-stats.demolab.com?user=rameshwar8767&theme=tokyonight&hide_border=false&border_radius=12&background=0D1117&stroke=7c3aed&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" height="170px"/>
 
-<img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=rameshwar8767&layout=compact&theme=tokyonight&border_color=7c3aed&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&border_radius=12" height="170px"/>
+## 🗣️ Most Used Languages
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-40%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-20%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-15%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-10%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-10%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-5%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
 
 </div>
 
