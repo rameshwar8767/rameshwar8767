@@ -28,10 +28,11 @@ const rameshwar = {
   role: "Backend Developer",
   stack: ["MERN", "Node.js", "Express.js"],
   cloud: ["AWS (EC2, S3, IAM)", "Azure Fundamentals"],
+  devops: ["Docker", "Docker Compose", "CI/CD (learning)", "Nginx"],
   education: "BE Information Technology @ PES Modern, Pune",
   graduation: 2026,
   cgpa: "7.66 / 10",
-  passions: ["REST APIs", "Scalable Systems", "Cloud Infra"],
+  passions: ["REST APIs", "Scalable Systems", "Cloud & DevOps Infra"],
   currentFocus: "Backend & Full-Stack Developer Roles 🚀",
   contact: "manerameshwar909@gmail.com",
 };
@@ -40,8 +41,9 @@ const rameshwar = {
 - 🎓 **Final-year BE IT** student at PES Modern College, Pune  
 - ⚡ Built **8+ REST APIs** during internship at **VTEX.ai**  
 - ☁️ Certified **AWS Cloud Practitioner (CLF-C02)**  
+- 🐳 Hands-on with **Docker, Multi-Stage Builds & Docker Compose** for containerized microservices  
 - 🧠 Strong in **DSA, OOP, Agile & SDLC**  
-- 🎯 Open to **Backend / Full-Stack Opportunities**
+- 🎯 Open to **Backend / Full-Stack / DevOps Opportunities**
 
 <br clear="right"/>
 
@@ -75,6 +77,7 @@ const rameshwar = {
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -83,6 +86,7 @@ const rameshwar = {
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
@@ -94,6 +98,8 @@ const rameshwar = {
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -123,6 +129,57 @@ const rameshwar = {
 ---
 
 ## 📂 Featured Projects
+
+<div align="center">
+
+### 🛒 ShopFusion — Full-Stack E-Commerce Platform *(Dockerized Microservices)*
+
+[![GitHub](https://img.shields.io/badge/Source-Code-181717?style=for-the-badge&logo=github)](https://github.com/rameshwar8767/ShopFusion)
+
+</div>
+
+> Containerized microservices e-commerce platform — **React.js · Vite · Node.js · Express.js · Python · FastAPI · MongoDB Atlas · Docker · Docker Compose · Nginx**
+
+- 🐳 **Containerized the entire application** using **Docker, Multi-Stage Dockerfiles & Docker Compose** — spins up all services with a single `docker compose up --build`
+- 🏗️ Architected as **3 independent microservices**: React/Vite frontend (served via Nginx), Node.js/Express REST API backend, and a Python/FastAPI ML engine
+- 🤖 Built a **Product Recommendation Engine** using **Market Basket Analysis (Apriori / FP-Growth)** for smart, real-time recommendations
+- 🔗 Implemented **Docker networking** for seamless inter-service communication and orchestration
+- 📦 Optimized Docker image sizes with multi-stage builds for lean, production-ready containers
+- 📊 Includes a **Business Analytics Dashboard** and **Inventory Management Module**
+
+---
+
+<div align="center">
+
+### 🏢 Smart Apartment System *(Backend)*
+
+[![GitHub](https://img.shields.io/badge/Backend-Repositories-181717?style=for-the-badge&logo=github)](https://github.com/orgs/smart-apartment-system/repositories)
+
+</div>
+
+> Backend-focused apartment/society management system — **Node.js · Express.js · MongoDB · REST APIs**
+
+- 🏗️ Designed and developed backend services for managing residents, apartments & society operations
+- 🔐 Implemented secure REST APIs with authentication & role-based access
+- 🗂️ Organized as a multi-repo backend architecture under a dedicated GitHub organization
+
+---
+
+<div align="center">
+
+### 🌍 Wanderlust — Travel Listing Web Application
+
+[![GitHub](https://img.shields.io/badge/Source-Code-181717?style=for-the-badge&logo=github)](https://github.com/rameshwar8767/Wandeder-Lust-Web-Application)
+
+</div>
+
+> Full-stack travel listing platform — **Node.js · Express.js · MongoDB · EJS**
+
+- 🏕️ Built a listings-based web app allowing users to create, view, edit & review travel destinations
+- 🔐 Implemented authentication and authorization for secure user sessions
+- 🗺️ Designed RESTful routes following MVC architecture for clean, maintainable code
+
+---
 
 <div align="center">
 
