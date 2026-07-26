@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:1E3A8A,100:2563EB&height=200&section=header&text=Rameshwar%20Mane&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20%26%20Cloud%20Engineer%20%7C%20AWS%20Certified%20Cloud%20Practitioner&descAlignY=62&descSize=18&descColor=93C5FD"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:1E3A8A,100:2563EB&height=200&section=header&text=Rameshwar%20Mane&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20and%20Cloud%20Engineer%20%7C%20AWS%20Certified%20Cloud%20Practitioner&descAlignY=62&descSize=18&descColor=93C5FD&v=3"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=60A5FA&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Rameshwar+Mane+%F0%9F%91%8B;DevOps+%26+Cloud+Engineer;Terraform+%7C+Docker+%7C+Jenkins+%7C+Kubernetes;Automating+Infrastructure%2C+One+Pipeline+at+a+Time;Final-Year+IT+Student+%7C+2026+Graduate"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=60A5FA&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Rameshwar+Mane+%F0%9F%91%8B;DevOps+and+Cloud+Engineer;Terraform+%7C+Docker+%7C+Jenkins+%7C+Kubernetes;Automating+Infrastructure%2C+One+Pipeline+at+a+Time;Final-Year+IT+Student+%7C+2026+Graduate"/>
 </a>
 
 <br>
